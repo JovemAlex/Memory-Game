@@ -1,0 +1,1 @@
+Este é um projeto desenvolvido com a ajuda de um tutorial do canal [Manual do dev](https://www.youtube.com/c/ManualdoDev). Onde foi desenvolvido um jogo de memória utilizando JavaScript, CSS e HTML.
