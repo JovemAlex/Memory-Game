@@ -15,6 +15,12 @@
   max-width: 450px;
 }
 
+#imgeText {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+
 .login_header img {
   width: 140px;
 }
@@ -47,3 +53,4 @@
   color: #00000042;;
   cursor: auto;
 }
+
